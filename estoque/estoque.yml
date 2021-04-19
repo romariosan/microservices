@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mariadb://127.0.0.1:3306/compra
+    url: jdbc:mariadb://127.0.0.1:3306/estoque
     username: root
     password: mariadb
     driver-class-name: org.mariadb.jdbc.Driver
