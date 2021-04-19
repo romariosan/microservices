@@ -5,7 +5,7 @@ spring:
     password: mariadb
     driver-class-name: org.mariadb.jdbc.Driver
   application:
-    name: compra
+    name: estoque
   profiles:
     active: dev
   jpa:
